@@ -247,8 +247,10 @@ tests/test_scanner.py::test_scan_nonexistent_directory PASSED            [100%]
 
 ## 👨‍💻 Author
 
-**Lead Developer & Maintainer**
-- GitHub: [@syedaqdas](https://github.com/syedaqdas)
+Developed by Syed Aqdas Imam, a Computer Science Engineering student at Cambridge Institute of Technology, Bengaluru.
+GitHub: @syedaqdas
+LinkedIn: linkedin.com/in/syedaqdas
+If you found this project helpful, please consider giving it a ⭐ on GitHub!
 - Project Repository: [Smart File Organizer](https://github.com/syedaqdas/smart-file-organizer)
 
 ---
